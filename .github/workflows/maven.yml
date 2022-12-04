@@ -1,11 +1,9 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Java CI With Maven
+name: Deploy To Github Pages
 
-on:
-  schedule:
-    # * is a special character in YAML so you have to quote this string
-    - cron:  '16 10 * * *'
+# 当有 push 到仓库和外部触发的时候就运行
+on: [push, repository_dispatch]
 
 jobs:
   build:
