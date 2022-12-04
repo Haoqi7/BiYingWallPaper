@@ -29,8 +29,11 @@ jobs:
          git add README.md
          git add bing-wallpaper.md
          git commit -m "update readme.md"
-    - name: Push changes
-      uses:  ad-m/github-push-action@master
+         git push -u origin "main"
+    - name: Deploy 🚀
+      uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
-      github_token: ${{ secrets.ALL }}
-         branch: main
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        BRANCH: gh-pages
+        FOLDER: public
+        BASE_BRANCH: main
