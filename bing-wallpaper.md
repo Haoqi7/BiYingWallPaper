@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-05-19 | ['The Spirit of Electricity' by Raoul Dufy, Museum of Modern Art, Paris, France (© BERTRAND GUAY/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.DufyRoom_EN-US3759763345_1920x1080.jpg) 
+
 2025-05-18 | [A delta in the Venetian Lagoon, Italy (© Dimitri Weber/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.VeniceLagoon_EN-US3686079353_1920x1080.jpg) 
 
 2025-05-16 | [Big Ben and the Palace of Westminster, London, England (© Puthipong Worasaran/Getty Images)](https://cn.bing.com/th?id=OHR.LondonParliament_EN-US7213846564_1920x1080.jpg) 
